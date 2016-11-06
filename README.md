@@ -120,7 +120,13 @@ JSON structure types: `ngx_nats_json_object_t`, `ngx_nats_json_array_t`,
 * `ngx_nats_json_type_name()`: convert an `NGX_NATS_JSON_*` type constant into
   a string name
   
-## License
+### Examples
+
+Below you can find examples of using `nginx-nats`:
+
+- [nats-pub](examples/nats-pub) example
+
+## License 
 
 Unless otherwise noted, the NATS source files are distributed under
 the Apache Version 2.0 license found in the LICENSE file.
